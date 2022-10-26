@@ -1,0 +1,39 @@
+body{
+    background-color:  #1ce9e9;
+}
+
+h1{
+    color: #66acbf;
+}
+h3{
+    color: #66acbf;
+
+}
+a{
+    color:#66acbf;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width:5px;
+    width:5%
+}
+
+
+
+/* *********CLASS SELECTORS********** .is must*/ 
+/* .bacon{
+    background-color: green;
+    background-color: blueviolet;
+} */
+
+
+
+
+/* ID heading is most specific */
+
+/* #heading{
+    color:blue;
+} */ 
+
